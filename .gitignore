@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/raw/*.csv
+data/raw/*.parquet
+models_saved/
+*.pkl
+*.joblib
+.env
+.DS_Store
+logs/
+.cache/
+.ipynb_checkpoints/
